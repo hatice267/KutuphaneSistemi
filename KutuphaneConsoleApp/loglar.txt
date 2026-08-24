@@ -1,0 +1,1 @@
+[7.08.2026 10:34:08] INFO: INSERT sorgusu çalıştırıldı: INSERT INTO Yazarlar(Ad,Soyad,DogumYili) VALUES('Halide Edip','Adıvar',1884)

@@ -1,0 +1,16 @@
+# Ortam değişkenleri / gizli bilgiler
+.env
+**/.env
+
+# Derleme çıktıları
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio dosyaları
+.vs/
+*.user
+
+# NuGet paketleri
+packages/
